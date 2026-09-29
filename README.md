@@ -1,11 +1,13 @@
-# Hi, I'm <Cara>! 👋
+# Hi, I'm Cara! 👋
 
 I am a third year Industrial Engineering student at the University of Toronto. I like data analysis and building interactive things — usually solutions to problems I wish already existed.
 
 
 ## 🥸 About Me
 
-- 💻 I'm currently pursuing my Master's in Computer Science at IIT Kharagpur.
+- 💻 I'm currently pursuing my Bachelors's degree in Industrial Engineering at the University of Toronto
+- 👷🏻‍♀️ I'm currently working on a Toronto Food Neighbourhood mapper
+- 🎵 I also love music, so im idk
 
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=java,latex,pycharm,py,vscode,mysql)](https://skillicons.dev)
