@@ -10,7 +10,7 @@ I am a third year Industrial Engineering student at the University of Toronto. I
 - 🎵 I also love music, so im idk
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=java,latex,pycharm,py,vscode,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,latex,pycharm,py,vscode,mysql,html,css,js)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
