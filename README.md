@@ -15,7 +15,7 @@ I am a third year Industrial Engineering student at the University of Toronto. I
 ## 🌱 Currently Exploring
 
 - 🚀 Learning Full Stack Web Development
-  - Exploring the ins and outs of React and Redux for dynamic front-end experiences.
+  - BAKAAAAA
  
   - 
 <!--
