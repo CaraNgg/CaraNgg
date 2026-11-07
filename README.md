@@ -25,9 +25,11 @@ Compare your full Spotify listening history with a friend: shared artists and so
 **Tech:** Python · Pandas · JavaScript · HTML/CSS · Pyodide
 🔗 [Live demo](https://yourusername.github.io/spotify-compatibility/)
 
-### 🗺️ Toronto Food Neighbourhood Mapper *(in progress)*
-A short one-line description of what it does.
-**Tech:** ...
+### 🗺️ [Geospatial Food Recommendation Engine](https://github.com/CaraNgg/toronto-food-geoscore)
+Pick what you're craving and see which of 19 Toronto neighbourhoods is the best match. It scores 3,000+ places from the Google Places API across 31 food categories and highlights the top 3 zones on an interactive map.
+
+**Tech:** Python · Pandas · Streamlit · Plotly · GeoJSON · Google Places API · Excel
+🔗 [Demo](your-demo-link-here)
  
   - 
 <!--
