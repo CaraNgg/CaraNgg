@@ -21,6 +21,7 @@ I am a third year Industrial Engineering student at the University of Toronto. I
 
 ### 🎧 [Spotify Compatibility Web App](https://github.com/CaraNgg/spotify-blend-analyzer)
 Compare your full Spotify listening history with a friend: shared artists and songs, listening stats, and a two-player guessing game built from your real data. Everything runs in your browser, so your data never leaves your device.
+
 **Tech:** Python · Pandas · JavaScript · HTML/CSS · Pyodide
 🔗 [Live demo](https://yourusername.github.io/spotify-compatibility/)
 
