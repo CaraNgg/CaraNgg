@@ -31,7 +31,7 @@ Pick what you're craving and see which of 19 Toronto neighbourhoods is the best 
 
 **Tech:** Python · Pandas · Streamlit · Plotly · GeoJSON · Google Places API · Excel
 
-🔗 [Demo](your-demo-link-here)
+🔗 [Try it live](https://carangg.github.io/spotify-blend-analyzer/)
  
   - 
 <!--
