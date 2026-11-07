@@ -23,12 +23,14 @@ I am a third year Industrial Engineering student at the University of Toronto. I
 Compare your full Spotify listening history with a friend: shared artists and songs, listening stats, and a two-player guessing game built from your real data. Everything runs in your browser, so your data never leaves your device.
 
 **Tech:** Python · Pandas · JavaScript · HTML/CSS · Pyodide
+
 🔗 [Live demo](https://yourusername.github.io/spotify-compatibility/)
 
 ### 🗺️ [Geospatial Food Recommendation Engine](https://github.com/CaraNgg/toronto-food-geoscore)
 Pick what you're craving and see which of 19 Toronto neighbourhoods is the best match. It scores 3,000+ places from the Google Places API across 31 food categories and highlights the top 3 zones on an interactive map.
 
 **Tech:** Python · Pandas · Streamlit · Plotly · GeoJSON · Google Places API · Excel
+
 🔗 [Demo](your-demo-link-here)
  
   - 
