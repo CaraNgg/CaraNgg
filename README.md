@@ -2,21 +2,20 @@
 
 I am a third year Industrial Engineering student at the University of Toronto. I like data analysis and building interactive things — usually solutions to problems I wish already existed.
 
+🔍 Looking for **Fall 2027** 12–16 month internships in **software engineering** or **data**.
 
 ## 🥸 About Me
-
-- 💻 I'm currently pursuing my Bachelors's degree in Industrial Engineering at the University of Toronto
-- 👷🏻‍♀️ I'm currently working on a Toronto Food Neighbourhood mapper
-- 🎵 I also love music, so im idk
+- 📊 I love turning messy real-world data into something people can actually use and explore
+- 🧠 Currently learning machine learning and full stack web development
+- 🎵 I love music, which is how my Spotify project started
 
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=java,latex,pycharm,py,vscode,mysql,html,css,js)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
+- Full stack web development (backends and databases)
+- Machine learning with scikit-learn
 
-- 🚀 Learning Full Stack Web Development
-  - BAKAAAAA
- 
 ## 🚀 Recent Projects
 
 ### 🎧 [Spotify Compatibility Web App](https://github.com/CaraNgg/spotify-blend-analyzer)
@@ -24,11 +23,11 @@ Compare your full Spotify listening history with a friend: shared artists and so
 
 **Tech:** Python · Pandas · JavaScript · HTML/CSS · Pyodide
 
-🔗 [Live demo](https://yourusername.github.io/spotify-compatibility/)
 
 ### 🗺️ [Geospatial Food Recommendation Engine](https://github.com/CaraNgg/toronto-food-geoscore)
 Pick what you're craving and see which of 19 Toronto neighbourhoods is the best match. It scores 3,000+ places from the Google Places API across 31 food categories and highlights the top 3 zones on an interactive map.
 
 **Tech:** Python · Pandas · Streamlit · Plotly · GeoJSON · Google Places API · Excel
 
-🔗 [Try it live](https://carangg.github.io/spotify-blend-analyzer/)
+## 📫 Contact
+[LinkedIn](www.linkedin.com/in/carang) · [Email](carang050803@gmail.com)
